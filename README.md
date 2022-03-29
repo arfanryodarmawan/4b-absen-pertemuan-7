@@ -1,5 +1,6 @@
 # Daftar Hadir Praktikum 4B Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
+- [Iqbal Kurniawan] - [2010631170012]
 [Dwi Putra Ardiansyah - 2010631170142]
 - Cahya Diantoni - 2010631170060
 [Elvin Alan Pratama | 2010631170065]
