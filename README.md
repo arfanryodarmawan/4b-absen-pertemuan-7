@@ -1,5 +1,6 @@
 # Daftar Hadir Praktikum 4B Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
+[Dela Amaliya] - [2010631170062]
 Assyifa Khalif| 2010631170058
 - [Damareindra Ihya Ullummuuddien] - [2010631170061]
 [FAJAR ATHARIQ] | [2010631170068]
