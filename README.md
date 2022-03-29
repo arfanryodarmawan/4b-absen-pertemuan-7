@@ -23,3 +23,4 @@ Faiz Agil Firmansyah - 2010631170067
 [Fathimatuz Zahra] - [2010631170009]
 - [Ardianto Nugroho] - [2010631170056]
 Farhan Saory - 2010631170008
+ arfan Ryo Darmawan - 2010631170057
