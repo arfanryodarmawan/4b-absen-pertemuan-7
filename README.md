@@ -1,5 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
+
+[Elvin Alan Pratama | 2010631170065]
 [Indira Nur Amalia]-[2010631170011]
 [fadhillah Ramadhan][2010631170066]
 [Fajri Yanti] -  [2010631170069]
